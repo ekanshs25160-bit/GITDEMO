@@ -1,2 +1,2 @@
-a = 24
-print("Hello World")
+a = 99
+print(a)
