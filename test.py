@@ -1,2 +1,2 @@
-a = 24
-print("Hello World")
+age = 24
+print(age)
